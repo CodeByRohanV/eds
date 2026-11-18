@@ -15,6 +15,8 @@ Edge Delivery Services. Read a block first. Omissions are in the repo or known.
 - `fstab.yaml`, `helix-query.yaml`, `paths.json` are retired. Config lives at tools.aem.live.
 
 ## Remember
+- User is Rohan, a fresher learning Edge Delivery Services (EDS) to crack an EDS developer job.
+- This workspace is Rohan's dedicated learning environment. Always mentor with practical, interview-ready insights, clear step-by-step explanations, and real-world EDS production best practices.
 - `npx -y @adobe/aem-cli up`: local code, previewed content.
 - Merging `main` ships code; content publishes separately.
 - A PR without a `{branch}--eds--CodeByRohanV.aem.page/{path}` link is rejected.
